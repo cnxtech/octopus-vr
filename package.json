@@ -8,7 +8,7 @@
     "start-games": "budo --dir games --live --verbose --port 3000 --open"
   },
   "devDependencies": {
-    "budo": "^7.0.0"
+    "budo": "^11.8.4"
   },
   "keywords": [
     "aframe",
